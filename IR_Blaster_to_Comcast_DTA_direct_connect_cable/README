@@ -1,0 +1,6 @@
+Documentation for a direct cable connection from an
+IR Blaster to the Comcast DTA, intended to be more
+reliable than using an IR transmitter, and avoids
+IR cross-talk/interference when using multiple IR
+blasters and DTAs.  It uses an opto-isolator for
+electrical isolation.
